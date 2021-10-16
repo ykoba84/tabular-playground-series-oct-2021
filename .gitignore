@@ -38,5 +38,6 @@ Thumbs.db
 *~
 
 # kaggle input files #
-input/
+/input/*
+/output/*
 .vn/
