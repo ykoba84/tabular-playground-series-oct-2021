@@ -41,3 +41,5 @@ Thumbs.db
 /input/*
 /output/*
 .vn/
+.env/
+.vscode/
